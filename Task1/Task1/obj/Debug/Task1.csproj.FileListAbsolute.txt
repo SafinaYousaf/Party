@@ -1,0 +1,14 @@
+C:\Users\Moosa Computers\source\repos\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\Moosa Computers\source\repos\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Moosa Computers\source\repos\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\Moosa Computers\source\repos\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\Moosa Computers\source\repos\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\Moosa Computers\source\repos\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\Moosa Computers\source\repos\Task1\Task1\obj\Debug\Task1.pdb
+E:\Task1\Task1\bin\Debug\Task1.exe.config
+E:\Task1\Task1\bin\Debug\Task1.exe
+E:\Task1\Task1\bin\Debug\Task1.pdb
+E:\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\Task1\Task1\obj\Debug\Task1.exe
+E:\Task1\Task1\obj\Debug\Task1.pdb
